@@ -20,10 +20,4 @@ interested in C# + .Net, Rust, k8s, GCP, Unity
   <a href="https://github.com/orange634nty">
     <img height="20" src="https://img.shields.io/github/followers/orange634nty?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/orange634nty">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/orange634nty/posts.svg" />
-  </a>
-  <a href="http://qiita.com/orange634nty">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/orange634nty/contributions.svg" />
-  </a>
 </p>
