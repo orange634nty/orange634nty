@@ -27,9 +27,3 @@ interested in C# + .Net, Rust, k8s, GCP, Unity
     <img height="20" src="https://qiita-badge.apiapi.app/s/orange634nty/contributions.svg" />
   </a>
 </p>
-
-### like
-
-```
-golang, javascript, node, rust, adobe illustrator
-```
