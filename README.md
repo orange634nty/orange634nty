@@ -1,8 +1,7 @@
 ### about me
 
-server-side programmer  
-use Ruby and Go at work  
-interested in C# + .Net, Rust, k8s, GCP, Unity
+Designer (used to be a server-side engineer)
+Interested in C# & .Net, Unity, Rust
 
 ### status
 
