@@ -1,6 +1,6 @@
 ### about me
 
-Designer (used to be a server-side engineer)
+Designer (used to be a server-side engineer)  
 Interested in C# & .Net, Unity, Rust
 
 ### status
